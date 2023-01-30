@@ -1,1 +1,1 @@
-This repository is for git assignments
+This repository
